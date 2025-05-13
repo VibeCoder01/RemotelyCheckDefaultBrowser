@@ -15,3 +15,4 @@ Remotely determines the Default Browser for the logged on accounts on a bunch of
     5. Queries each user’s HTTP UserChoice\ProgId via `reg.exe`.
     6. If no per-user setting, queries machine default under 
        HKLM\SOFTWARE\Clients\StartMenuInternet via `reg.exe`.
+
