@@ -3,13 +3,13 @@
 Remotely determines the Default Browser for the logged on accounts on a bunch of Windows PCs.
 
 
-.SYNOPSIS
+**SYNOPSIS**
 
   Ensures Remote Registry, enumerates interactive sessions and loaded profiles (excluding “_Classes” hives),
   then queries per-user and machine-wide default browser settings.
 
-.DESCRIPTION
-  
+
+**DESCRIPTION**
   For each computer:
   
     1. Ensures Remote Registry is set to Automatic and started.
